@@ -1,6 +1,6 @@
 <h1 align="center"Welcom</h1>
 
-<p align="center">Hi there!, I am <a href="https://github.com/Juan-Andres-Motta">Juan Motta</a><br><br>
+<p align="center">Hi there!, I am Juan Motta<br><br>
 💻I'm Electrical Engineer and Web developer!💻<br><br>
  
 <p align="center">
