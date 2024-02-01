@@ -24,7 +24,7 @@
 <img alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> 
 </div><br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Juan-Andres-Motta&show_icons=true" width="400"><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Motta&layout=compact&langs_count=6" width="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Andres-Motta&layout=compact&langs_count=6" width="400">
 </div>
 
 <br>
